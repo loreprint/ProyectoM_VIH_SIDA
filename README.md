@@ -1,5 +1,8 @@
 # ProyectoM_VIH_SIDA
 
+![image](https://github.com/user-attachments/assets/17ef6bcd-ebee-4eab-aa38-1cc8a6545f65)
+
+
 El objetivo principal de este proyecto fue identificar variables relevantes que influyen en el diagnóstico de VIH/SIDA y entrenar un modelo predictivo que permita estimar la probabilidad de infección a partir de datos clínicos y demográficos.
 
 ---
@@ -71,6 +74,13 @@ El modelo mostró una buena capacidad para **identificar casos positivos (recall
 Este comportamiento es común en modelos entrenados con clases desbalanceadas. 
 
 El modelo mostró una buena capacidad para **identificar casos positivos (recall alto)**, aunque con una precisión baja. Esto significa que **algunas personas fueron clasificadas incorrectamente como infectadas**, pero **se minimizó el riesgo de falsos negativos**, lo cual es favorable en contextos clínicos donde es preferible alertar incluso con cierto margen de error antes que no detectar una infección real a tiempo.
+
+
+
+![image](https://github.com/user-attachments/assets/0cde49b4-c624-400c-a0b1-83af0b1ce6c5)
+
+![image](https://github.com/user-attachments/assets/bb7f46d7-33c3-49b9-9bf9-69ed3afcf488)
+
 
 ---
 
